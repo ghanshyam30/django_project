@@ -10,6 +10,3 @@ RUN mkdir /django_project
 WORKDIR /django_project
 COPY ./django_project /django_project
 WORKDIR /django_project
-
-RUN adduser -D thebadcoder
-USER thebadcoder
