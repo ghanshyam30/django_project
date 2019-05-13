@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "C:\\Users\\GS-1766\\Desktop\\GitHub\\DJANGO~1\\mysite\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.linting.enabled": true
+}
